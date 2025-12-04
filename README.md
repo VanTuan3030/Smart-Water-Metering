@@ -23,9 +23,9 @@ An embedded system project focused on designing and implementing a **Smart Water
 
 | Component | Technology / Platform | Function |
 | :--- | :--- | :--- |
-| **Firmware** | `<Ngôn ngữ/IDE, ví dụ: C++ trên Arduino IDE>` | Lập trình logic điều khiển, đọc cảm biến và giao tiếp IoT. |
-| **Cloud Backend** | **Firebase Realtime Database / Firestore** | Lưu trữ, đồng bộ hóa dữ liệu tiêu thụ nước theo thời gian thực. |
-| **Mobile App** | **Android (Java/Kotlin)** | Giao diện người dùng, hiển thị dữ liệu và quản lý cảnh báo. |
+| **Firmware** | `<Ngôn ngữ C++ trên Arduino IDE>` | Lập trình logic điều khiển, đọc cảm biến và giao tiếp IoT. |
+| **Cloud Backend** | **Firebase Realtime Database** | Lưu trữ, đồng bộ hóa dữ liệu tiêu thụ nước theo thời gian thực. |
+| **Mobile App** | **Android (Java)** | Giao diện người dùng, hiển thị dữ liệu và quản lý cảnh báo. |
 | **Notification** | **Android Notification Channel** (API 26+) | Đảm bảo hệ thống cảnh báo hoạt động hiệu quả. |
 
 ## ⚙️ Installation and Usage
