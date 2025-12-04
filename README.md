@@ -1,4 +1,4 @@
-# 💧 Thiết Bị Giám Sát và Xác Định Chỉ Số Nước Thông Minh (Smart Water Metering)
+# 💧 Smart Water Metering
 
 An embedded system project focused on designing and implementing a **Smart Water Metering** device using a **Rotary Encoder/Water Flow Sensor**. The system provides real-time water consumption data and smart alerts via a mobile application, addressing the need for accurate and efficient water management.
 
